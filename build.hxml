@@ -1,0 +1,7 @@
+-main Three
+
+-cp src
+
+-lib threejs
+
+-js bin/app.js
